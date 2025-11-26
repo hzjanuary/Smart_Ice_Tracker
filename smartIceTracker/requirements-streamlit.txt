@@ -1,0 +1,22 @@
+# Streamlit Dependencies - Chạy: pip install -r requirements-streamlit.txt
+
+# Web Framework
+streamlit==1.28.1
+streamlit-webrtc==0.47.0
+
+# Data Processing
+pandas==2.1.3
+numpy==1.26.4
+
+# Excel Support
+openpyxl==3.11.0
+
+# Firebase
+firebase-admin==6.5.0
+
+# Visualization (nếu cần thêm)
+plotly==5.18.0
+matplotlib==3.9.2
+
+# Optional - để capture từ webcam
+opencv-contrib-python==4.8.1.78
