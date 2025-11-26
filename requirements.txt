@@ -7,6 +7,9 @@ torchaudio==2.4.0+cu121
 # --- YOLOv8 Model ---
 ultralytics==8.3.34
 
+# --- OCR (License Plate Recognition) ---
+easyocr==1.7.1
+
 # --- OpenCV & NumPy ---
 opencv-python==4.10.0.84
 numpy==1.26.4
